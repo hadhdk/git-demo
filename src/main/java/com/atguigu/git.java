@@ -14,6 +14,6 @@ public class git {
         System.out.println("push-test hot-fix");
         System.out.println("push-test hot-fix");
         System.out.println("push-test hot-fix");
-
+        "一定去看张泽禹演唱会，张泽禹等我！！！";
     }
 }
